@@ -1,0 +1,2 @@
+rootProject.name='Fragment-Class'
+include ':app'

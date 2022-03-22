@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment-Class</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lastPage">上一页</string>
+    <string name="nextPage">下一页</string>
+    <string name="fragment1_Title">这是第一个Fragment</string>
+    <string name="fragment2_Title">这是第二个Fragment</string>
+    <string name="fragment3_Title">这是第三个Fragment</string>
+</resources>
